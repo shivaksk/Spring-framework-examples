@@ -15,6 +15,6 @@
 		class="com.ksk.springs.ioc.Accountant">
 	</bean> -->
 <!-- 	//enable annotation appraoch -->
-		<context:component-scan base-package="com.ksk.springs.ioc"></context:component-scan>
+		<!-- <context:component-scan base-package="com.ksk.springs.ioc"></context:component-scan> -->
 	
 </beans>

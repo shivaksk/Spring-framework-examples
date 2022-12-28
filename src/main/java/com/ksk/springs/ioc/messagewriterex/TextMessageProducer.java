@@ -9,7 +9,4 @@ public class TextMessageProducer implements IMessageProducer {
 		// TODO Auto-generated method stub
 		return "Hello "+message+ "..!";
 	}
-
-	
-
 }
